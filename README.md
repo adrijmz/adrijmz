@@ -3,7 +3,7 @@
 
 - 🌎 I’m based in **Madrid, Spain**
   
-- 🔭 I work as a **Business Intelligence Consultant**
+- 🔭 I work as a **Data Analytics Consultant**
 
 - 🌱 I’m currently learning **Data Science**
 
